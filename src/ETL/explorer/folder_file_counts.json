@@ -1,0 +1,602 @@
+[
+  {
+    "folder": "kaminski-v",
+    "file_count": 28465
+  },
+  {
+    "folder": "dasovich-j",
+    "file_count": 28234
+  },
+  {
+    "folder": "kean-s",
+    "file_count": 25351
+  },
+  {
+    "folder": "mann-k",
+    "file_count": 23381
+  },
+  {
+    "folder": "jones-t",
+    "file_count": 19950
+  },
+  {
+    "folder": "shackleton-s",
+    "file_count": 18687
+  },
+  {
+    "folder": "taylor-m",
+    "file_count": 13875
+  },
+  {
+    "folder": "farmer-d",
+    "file_count": 13032
+  },
+  {
+    "folder": "germany-c",
+    "file_count": 12436
+  },
+  {
+    "folder": "beck-s",
+    "file_count": 11830
+  },
+  {
+    "folder": "symes-k",
+    "file_count": 10827
+  },
+  {
+    "folder": "nemec-g",
+    "file_count": 10655
+  },
+  {
+    "folder": "scott-s",
+    "file_count": 8022
+  },
+  {
+    "folder": "rogers-b",
+    "file_count": 8009
+  },
+  {
+    "folder": "bass-e",
+    "file_count": 7823
+  },
+  {
+    "folder": "sanders-r",
+    "file_count": 7329
+  },
+  {
+    "folder": "campbell-l",
+    "file_count": 6490
+  },
+  {
+    "folder": "shapiro-r",
+    "file_count": 6071
+  },
+  {
+    "folder": "guzman-m",
+    "file_count": 6054
+  },
+  {
+    "folder": "lay-k",
+    "file_count": 5937
+  },
+  {
+    "folder": "lenhart-m",
+    "file_count": 5920
+  },
+  {
+    "folder": "lokay-m",
+    "file_count": 5568
+  },
+  {
+    "folder": "kitchen-l",
+    "file_count": 5546
+  },
+  {
+    "folder": "haedicke-m",
+    "file_count": 5246
+  },
+  {
+    "folder": "sager-e",
+    "file_count": 5200
+  },
+  {
+    "folder": "love-p",
+    "file_count": 5002
+  },
+  {
+    "folder": "arnold-j",
+    "file_count": 4898
+  },
+  {
+    "folder": "fossum-d",
+    "file_count": 4796
+  },
+  {
+    "folder": "perlingiere-d",
+    "file_count": 4778
+  },
+  {
+    "folder": "lavorato-j",
+    "file_count": 4685
+  },
+  {
+    "folder": "mcconnell-m",
+    "file_count": 4542
+  },
+  {
+    "folder": "giron-d",
+    "file_count": 4220
+  },
+  {
+    "folder": "skilling-j",
+    "file_count": 4139
+  },
+  {
+    "folder": "shankman-j",
+    "file_count": 3856
+  },
+  {
+    "folder": "hain-m",
+    "file_count": 3820
+  },
+  {
+    "folder": "delainey-d",
+    "file_count": 3566
+  },
+  {
+    "folder": "williams-w3",
+    "file_count": 3440
+  },
+  {
+    "folder": "blair-l",
+    "file_count": 3415
+  },
+  {
+    "folder": "mclaughlin-e",
+    "file_count": 3353
+  },
+  {
+    "folder": "whalley-l",
+    "file_count": 3335
+  },
+  {
+    "folder": "steffes-j",
+    "file_count": 3331
+  },
+  {
+    "folder": "white-s",
+    "file_count": 3272
+  },
+  {
+    "folder": "neal-s",
+    "file_count": 3268
+  },
+  {
+    "folder": "hernandez-j",
+    "file_count": 3265
+  },
+  {
+    "folder": "hyvl-d",
+    "file_count": 3210
+  },
+  {
+    "folder": "allen-p",
+    "file_count": 3034
+  },
+  {
+    "folder": "stclair-c",
+    "file_count": 3030
+  },
+  {
+    "folder": "griffith-j",
+    "file_count": 2973
+  },
+  {
+    "folder": "cash-m",
+    "file_count": 2969
+  },
+  {
+    "folder": "watson-k",
+    "file_count": 2950
+  },
+  {
+    "folder": "linder-e",
+    "file_count": 2805
+  },
+  {
+    "folder": "rodrique-r",
+    "file_count": 2766
+  },
+  {
+    "folder": "baughman-d",
+    "file_count": 2760
+  },
+  {
+    "folder": "ward-k",
+    "file_count": 2611
+  },
+  {
+    "folder": "hayslett-r",
+    "file_count": 2554
+  },
+  {
+    "folder": "horton-s",
+    "file_count": 2470
+  },
+  {
+    "folder": "buy-r",
+    "file_count": 2429
+  },
+  {
+    "folder": "dean-c",
+    "file_count": 2429
+  },
+  {
+    "folder": "parks-j",
+    "file_count": 2284
+  },
+  {
+    "folder": "davis-d",
+    "file_count": 2249
+  },
+  {
+    "folder": "grigsby-m",
+    "file_count": 2237
+  },
+  {
+    "folder": "presto-k",
+    "file_count": 2204
+  },
+  {
+    "folder": "lewis-a",
+    "file_count": 2191
+  },
+  {
+    "folder": "keavey-p",
+    "file_count": 2177
+  },
+  {
+    "folder": "dorland-c",
+    "file_count": 2127
+  },
+  {
+    "folder": "mims-thurston-p",
+    "file_count": 2038
+  },
+  {
+    "folder": "corman-s",
+    "file_count": 2025
+  },
+  {
+    "folder": "maggi-m",
+    "file_count": 1991
+  },
+  {
+    "folder": "shively-h",
+    "file_count": 1991
+  },
+  {
+    "folder": "tholt-j",
+    "file_count": 1885
+  },
+  {
+    "folder": "whalley-g",
+    "file_count": 1878
+  },
+  {
+    "folder": "schoolcraft-d",
+    "file_count": 1859
+  },
+  {
+    "folder": "hyatt-k",
+    "file_count": 1794
+  },
+  {
+    "folder": "derrick-j",
+    "file_count": 1766
+  },
+  {
+    "folder": "hodge-j",
+    "file_count": 1661
+  },
+  {
+    "folder": "ruscitti-k",
+    "file_count": 1643
+  },
+  {
+    "folder": "smith-m",
+    "file_count": 1642
+  },
+  {
+    "folder": "salisbury-h",
+    "file_count": 1632
+  },
+  {
+    "folder": "merriss-s",
+    "file_count": 1627
+  },
+  {
+    "folder": "heard-m",
+    "file_count": 1623
+  },
+  {
+    "folder": "may-l",
+    "file_count": 1600
+  },
+  {
+    "folder": "geaccone-t",
+    "file_count": 1592
+  },
+  {
+    "folder": "wolfe-j",
+    "file_count": 1587
+  },
+  {
+    "folder": "quigley-d",
+    "file_count": 1568
+  },
+  {
+    "folder": "weldon-c",
+    "file_count": 1566
+  },
+  {
+    "folder": "zipper-a",
+    "file_count": 1563
+  },
+  {
+    "folder": "fischer-m",
+    "file_count": 1498
+  },
+  {
+    "folder": "gay-r",
+    "file_count": 1415
+  },
+  {
+    "folder": "carson-m",
+    "file_count": 1400
+  },
+  {
+    "folder": "thomas-p",
+    "file_count": 1293
+  },
+  {
+    "folder": "ybarbo-p",
+    "file_count": 1291
+  },
+  {
+    "folder": "stokley-c",
+    "file_count": 1252
+  },
+  {
+    "folder": "ermis-f",
+    "file_count": 1230
+  },
+  {
+    "folder": "stepenovitch-j",
+    "file_count": 1227
+  },
+  {
+    "folder": "tycholiz-b",
+    "file_count": 1219
+  },
+  {
+    "folder": "williams-j",
+    "file_count": 1213
+  },
+  {
+    "folder": "sturm-f",
+    "file_count": 1169
+  },
+  {
+    "folder": "lokey-t",
+    "file_count": 1156
+  },
+  {
+    "folder": "kuykendall-t",
+    "file_count": 1120
+  },
+  {
+    "folder": "saibi-e",
+    "file_count": 1116
+  },
+  {
+    "folder": "keiser-k",
+    "file_count": 1113
+  },
+  {
+    "folder": "martin-t",
+    "file_count": 1112
+  },
+  {
+    "folder": "meyers-a",
+    "file_count": 1099
+  },
+  {
+    "folder": "solberg-g",
+    "file_count": 1081
+  },
+  {
+    "folder": "donoho-l",
+    "file_count": 1045
+  },
+  {
+    "folder": "cuilla-m",
+    "file_count": 1029
+  },
+  {
+    "folder": "storey-g",
+    "file_count": 1027
+  },
+  {
+    "folder": "brawner-s",
+    "file_count": 1026
+  },
+  {
+    "folder": "donohoe-t",
+    "file_count": 1015
+  },
+  {
+    "folder": "mckay-j",
+    "file_count": 998
+  },
+  {
+    "folder": "lucci-p",
+    "file_count": 997
+  },
+  {
+    "folder": "ring-r",
+    "file_count": 994
+  },
+  {
+    "folder": "causholli-m",
+    "file_count": 943
+  },
+  {
+    "folder": "badeer-r",
+    "file_count": 877
+  },
+  {
+    "folder": "whitt-m",
+    "file_count": 807
+  },
+  {
+    "folder": "benson-r",
+    "file_count": 767
+  },
+  {
+    "folder": "schwieger-j",
+    "file_count": 738
+  },
+  {
+    "folder": "forney-j",
+    "file_count": 729
+  },
+  {
+    "folder": "pereira-s",
+    "file_count": 725
+  },
+  {
+    "folder": "semperger-c",
+    "file_count": 721
+  },
+  {
+    "folder": "hendrickson-s",
+    "file_count": 719
+  },
+  {
+    "folder": "ring-a",
+    "file_count": 706
+  },
+  {
+    "folder": "mccarty-d",
+    "file_count": 691
+  },
+  {
+    "folder": "mckay-b",
+    "file_count": 681
+  },
+  {
+    "folder": "arora-h",
+    "file_count": 654
+  },
+  {
+    "folder": "scholtes-d",
+    "file_count": 647
+  },
+  {
+    "folder": "townsend-j",
+    "file_count": 646
+  },
+  {
+    "folder": "pimenov-v",
+    "file_count": 642
+  },
+  {
+    "folder": "staab-t",
+    "file_count": 621
+  },
+  {
+    "folder": "richey-c",
+    "file_count": 605
+  },
+  {
+    "folder": "gang-l",
+    "file_count": 590
+  },
+  {
+    "folder": "gilbertsmith-d",
+    "file_count": 578
+  },
+  {
+    "folder": "platter-p",
+    "file_count": 574
+  },
+  {
+    "folder": "rapp-b",
+    "file_count": 563
+  },
+  {
+    "folder": "zufferli-j",
+    "file_count": 557
+  },
+  {
+    "folder": "harris-s",
+    "file_count": 548
+  },
+  {
+    "folder": "crandell-s",
+    "file_count": 519
+  },
+  {
+    "folder": "reitmeyer-j",
+    "file_count": 498
+  },
+  {
+    "folder": "bailey-s",
+    "file_count": 478
+  },
+  {
+    "folder": "holst-k",
+    "file_count": 463
+  },
+  {
+    "folder": "king-j",
+    "file_count": 462
+  },
+  {
+    "folder": "panus-s",
+    "file_count": 437
+  },
+  {
+    "folder": "dickson-s",
+    "file_count": 395
+  },
+  {
+    "folder": "quenet-j",
+    "file_count": 395
+  },
+  {
+    "folder": "motley-m",
+    "file_count": 378
+  },
+  {
+    "folder": "swerzbin-m",
+    "file_count": 355
+  },
+  {
+    "folder": "sanchez-m",
+    "file_count": 256
+  },
+  {
+    "folder": "south-s",
+    "file_count": 248
+  },
+  {
+    "folder": "slinger-r",
+    "file_count": 132
+  },
+  {
+    "folder": "phanis-s",
+    "file_count": 35
+  }
+]
