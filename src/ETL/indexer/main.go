@@ -22,7 +22,14 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	defer f.Close()
+	mf, err := os.Create("mem.prof")
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer mf.Close()
+	pprof.WriteHeapProfile(mf)
 	pprof.StartCPUProfile(f)
-	controllers.Manage("examples/big/fischer-m", "http://localhost:4080/api/_bulkv2")
+	controllers.Manage("examples/big/kaminski-v", "http://localhost:4080/api/_bulkv2")
 	pprof.StopCPUProfile()
 }

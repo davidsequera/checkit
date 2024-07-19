@@ -10,7 +10,7 @@ import (
 
 func setParameters() (int, int) {
 	// readerWorkes, senderWorkers
-	return 20, 20
+	return 30000, 30000
 }
 
 func fillPaths(arr *[]string, dir string) error {
@@ -55,7 +55,7 @@ func Manage(dir string, url string) {
 		var batch []entities.Email
 		for email := range chEmails {
 			batch = append(batch, email)
-			if len(batch) >= 1000 {
+			if len(batch) >= 3000 {
 				// "admin", "Complexpass#123"
 				emailSender := EmailSender{Url: url, Emails: batch, Credential: struct {
 					username string

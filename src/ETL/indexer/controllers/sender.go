@@ -22,9 +22,6 @@ type EmailSender struct {
 
 func (es *EmailSender) SendEmails(wg *sync.WaitGroup, semaphore chan struct{}) {
 
-	for _, email := range es.Emails {
-		fmt.Println(email.MessageID)
-	}
 	// Outer structure
 	payload := struct {
 		Index   string           `json:"index"`
