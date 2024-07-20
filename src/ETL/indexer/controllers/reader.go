@@ -8,9 +8,9 @@ import (
 )
 
 func ReadEmail(path string, wg *sync.WaitGroup, ch chan<- entities.Email, semaphore chan struct{}) {
-	defer wg.Done()
 	semaphore <- struct{}{}        // Acquire semaphore
 	defer func() { <-semaphore }() // Release semaphore
+	defer wg.Done()
 	data, err := os.ReadFile(path)
 	if err != nil {
 		fmt.Printf("Error reading file %s: %v\n", path, err)

@@ -11,24 +11,17 @@ import (
 	"sync"
 )
 
-type EmailSender struct {
-	Url        string
-	Emails     []entities.Email
-	Credential struct {
-		username string
-		password string
-	}
-}
-
-func (es *EmailSender) SendEmails(wg *sync.WaitGroup, semaphore chan struct{}) {
-
+func SendEmails(url string, emails []entities.Email, user *string, password *string, wg *sync.WaitGroup, semaphore chan struct{}) {
+	semaphore <- struct{}{}        // Acquire semaphore
+	defer func() { <-semaphore }() // Release semaphore
+	defer wg.Done()
 	// Outer structure
 	payload := struct {
 		Index   string           `json:"index"`
 		Records []entities.Email `json:"records"`
 	}{
-		Index:   "devemails",
-		Records: es.Emails,
+		Index:   "emails",
+		Records: emails,
 	}
 
 	jsonPayload, err := json.Marshal(payload)
@@ -36,12 +29,11 @@ func (es *EmailSender) SendEmails(wg *sync.WaitGroup, semaphore chan struct{}) {
 		log.Fatal(err)
 	}
 
-	req, err := http.NewRequest("POST", es.Url, bytes.NewBuffer(jsonPayload))
+	req, err := http.NewRequest("POST", url, bytes.NewBuffer(jsonPayload))
 	if err != nil {
 		log.Fatal(err)
 	}
-	// "admin", "Complexpass#123"
-	req.SetBasicAuth(es.Credential.username, es.Credential.password)
+	req.SetBasicAuth(*user, *password)
 	req.Header.Set("Content-Type", "application/json")
 	req.Header.Set("User-Agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36")
 
@@ -49,7 +41,6 @@ func (es *EmailSender) SendEmails(wg *sync.WaitGroup, semaphore chan struct{}) {
 	if err != nil {
 		log.Fatal(err)
 	}
-	defer resp.Body.Close()
 	log.Println(resp.StatusCode)
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
@@ -57,6 +48,5 @@ func (es *EmailSender) SendEmails(wg *sync.WaitGroup, semaphore chan struct{}) {
 	}
 	fmt.Println(string(body))
 
-	defer wg.Done()
-
+	resp.Body.Close()
 }

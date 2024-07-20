@@ -1,8 +1,6 @@
 package entities
 
 import (
-	"encoding/json"
-	"log"
 	"regexp"
 )
 
@@ -99,12 +97,4 @@ func ParseEmail(emailText string) Email {
 	}
 
 	return email
-}
-
-func ConvertEmailtoJSON(e Email) string {
-	jsonEmail, err := json.Marshal(e)
-	if err != nil {
-		log.Fatalf("Failed to marshal JSON: %v", err)
-	}
-	return string(jsonEmail)
 }
