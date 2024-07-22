@@ -1,0 +1,915 @@
+User: allen-p
+{"message":"v2 data inserted","record_count":606}
+{"message":"v2 data inserted","record_count":606}
+{"message":"v2 data inserted","record_count":606}
+{"message":"v2 data inserted","record_count":606}
+{"message":"v2 data inserted","record_count":606}
+User: arnold-j
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":2449}
+{"message":"v2 data inserted","record_count":2449}
+User: arora-h
+{"message":"v2 data inserted","record_count":130}
+{"message":"v2 data inserted","record_count":130}
+{"message":"v2 data inserted","record_count":130}
+{"message":"v2 data inserted","record_count":130}
+{"message":"v2 data inserted","record_count":130}
+User: badeer-r
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":175}
+{"message":"v2 data inserted","record_count":175}
+{"message":"v2 data inserted","record_count":175}
+{"message":"v2 data inserted","record_count":175}
+{"message":"v2 data inserted","record_count":175}
+User: bailey-s
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":95}
+{"message":"v2 data inserted","record_count":95}
+{"message":"v2 data inserted","record_count":95}
+{"message":"v2 data inserted","record_count":95}
+{"message":"v2 data inserted","record_count":95}
+User: bass-e
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":3911}
+{"message":"v2 data inserted","record_count":3911}
+User: baughman-d
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":552}
+{"message":"v2 data inserted","record_count":552}
+{"message":"v2 data inserted","record_count":552}
+{"message":"v2 data inserted","record_count":552}
+User: beck-s
+{"message":"v2 data inserted","record_count":552}
+{"message":"v2 data inserted","record_count":5915}
+User: benson-r
+{"message":"v2 data inserted","record_count":153}
+{"message":"v2 data inserted","record_count":153}
+{"message":"v2 data inserted","record_count":153}
+{"message":"v2 data inserted","record_count":153}
+{"message":"v2 data inserted","record_count":153}
+User: blair-l
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":683}
+{"message":"v2 data inserted","record_count":5915}
+{"message":"v2 data inserted","record_count":683}
+{"message":"v2 data inserted","record_count":683}
+{"message":"v2 data inserted","record_count":683}
+User: brawner-s
+{"message":"v2 data inserted","record_count":683}
+{"message":"v2 data inserted","record_count":205}
+{"message":"v2 data inserted","record_count":205}
+{"message":"v2 data inserted","record_count":205}
+{"message":"v2 data inserted","record_count":205}
+{"message":"v2 data inserted","record_count":205}
+User: buy-r
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":485}
+{"message":"v2 data inserted","record_count":485}
+{"message":"v2 data inserted","record_count":485}
+{"message":"v2 data inserted","record_count":485}
+{"message":"v2 data inserted","record_count":485}
+User: campbell-l
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":3245}
+User: carson-m
+{"message":"v2 data inserted","record_count":280}
+{"message":"v2 data inserted","record_count":3245}
+{"message":"v2 data inserted","record_count":280}
+{"message":"v2 data inserted","record_count":280}
+{"message":"v2 data inserted","record_count":280}
+{"message":"v2 data inserted","record_count":280}
+User: cash-m
+{"message":"v2 data inserted","record_count":593}
+{"message":"v2 data inserted","record_count":593}
+{"message":"v2 data inserted","record_count":593}
+{"message":"v2 data inserted","record_count":593}
+{"message":"v2 data inserted","record_count":593}
+User: causholli-m
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":188}
+{"message":"v2 data inserted","record_count":188}
+{"message":"v2 data inserted","record_count":188}
+{"message":"v2 data inserted","record_count":188}
+{"message":"v2 data inserted","record_count":188}
+User: corman-s
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":405}
+{"message":"v2 data inserted","record_count":405}
+{"message":"v2 data inserted","record_count":405}
+{"message":"v2 data inserted","record_count":405}
+User: crandell-s
+{"message":"v2 data inserted","record_count":405}
+{"message":"v2 data inserted","record_count":103}
+{"message":"v2 data inserted","record_count":103}
+{"message":"v2 data inserted","record_count":103}
+{"message":"v2 data inserted","record_count":103}
+{"message":"v2 data inserted","record_count":103}
+User: cuilla-m
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":205}
+{"message":"v2 data inserted","record_count":205}
+{"message":"v2 data inserted","record_count":205}
+{"message":"v2 data inserted","record_count":205}
+{"message":"v2 data inserted","record_count":205}
+User: dasovich-j
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":5000}
+{"message":"v2 data inserted","record_count":5000}
+{"message":"v2 data inserted","record_count":5000}
+{"message":"v2 data inserted","record_count":5000}
+{"message":"v2 data inserted","record_count":5000}
+User: davis-d
+{"message":"v2 data inserted","record_count":3234}
+{"message":"v2 data inserted","record_count":449}
+{"message":"v2 data inserted","record_count":449}
+{"message":"v2 data inserted","record_count":449}
+{"message":"v2 data inserted","record_count":449}
+{"message":"v2 data inserted","record_count":449}
+User: dean-c
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":485}
+{"message":"v2 data inserted","record_count":485}
+{"message":"v2 data inserted","record_count":485}
+{"message":"v2 data inserted","record_count":485}
+{"message":"v2 data inserted","record_count":485}
+User: delainey-d
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":713}
+{"message":"v2 data inserted","record_count":713}
+{"message":"v2 data inserted","record_count":713}
+{"message":"v2 data inserted","record_count":713}
+{"message":"v2 data inserted","record_count":713}
+User: derrick-j
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":353}
+{"message":"v2 data inserted","record_count":353}
+{"message":"v2 data inserted","record_count":353}
+{"message":"v2 data inserted","record_count":353}
+{"message":"v2 data inserted","record_count":353}
+User: dickson-s
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":79}
+{"message":"v2 data inserted","record_count":79}
+{"message":"v2 data inserted","record_count":79}
+{"message":"v2 data inserted","record_count":79}
+User: donoho-l
+{"message":"v2 data inserted","record_count":79}
+{"message":"v2 data inserted","record_count":209}
+{"message":"v2 data inserted","record_count":209}
+{"message":"v2 data inserted","record_count":209}
+{"message":"v2 data inserted","record_count":209}
+{"message":"v2 data inserted","record_count":209}
+User: donohoe-t
+{"message":"v2 data inserted","record_count":203}
+{"message":"v2 data inserted","record_count":203}
+{"message":"v2 data inserted","record_count":203}
+{"message":"v2 data inserted","record_count":203}
+User: dorland-c
+{"message":"v2 data inserted","record_count":203}
+{"message":"v2 data inserted","record_count":425}
+{"message":"v2 data inserted","record_count":425}
+{"message":"v2 data inserted","record_count":425}
+{"message":"v2 data inserted","record_count":425}
+{"message":"v2 data inserted","record_count":425}
+User: ermis-f
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":246}
+{"message":"v2 data inserted","record_count":246}
+{"message":"v2 data inserted","record_count":246}
+{"message":"v2 data inserted","record_count":246}
+User: farmer-d
+{"message":"v2 data inserted","record_count":246}
+{"message":"v2 data inserted","record_count":6516}
+{"message":"v2 data inserted","record_count":6516}
+User: fischer-m
+{"message":"v2 data inserted","record_count":299}
+{"message":"v2 data inserted","record_count":299}
+{"message":"v2 data inserted","record_count":299}
+{"message":"v2 data inserted","record_count":299}
+{"message":"v2 data inserted","record_count":299}
+User: forney-j
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":145}
+{"message":"v2 data inserted","record_count":145}
+{"message":"v2 data inserted","record_count":145}
+{"message":"v2 data inserted","record_count":145}
+{"message":"v2 data inserted","record_count":145}
+User: fossum-d
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":2398}
+User: gang-l
+{"message":"v2 data inserted","record_count":118}
+{"message":"v2 data inserted","record_count":2398}
+{"message":"v2 data inserted","record_count":118}
+{"message":"v2 data inserted","record_count":118}
+{"message":"v2 data inserted","record_count":118}
+{"message":"v2 data inserted","record_count":118}
+User: gay-r
+{"message":"v2 data inserted","record_count":283}
+{"message":"v2 data inserted","record_count":283}
+{"message":"v2 data inserted","record_count":283}
+{"message":"v2 data inserted","record_count":283}
+User: geaccone-t
+{"message":"v2 data inserted","record_count":283}
+{"message":"v2 data inserted","record_count":318}
+{"message":"v2 data inserted","record_count":318}
+{"message":"v2 data inserted","record_count":318}
+{"message":"v2 data inserted","record_count":318}
+{"message":"v2 data inserted","record_count":318}
+User: germany-c
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":6218}
+User: gilbertsmith-d
+{"message":"v2 data inserted","record_count":115}
+{"message":"v2 data inserted","record_count":115}
+{"message":"v2 data inserted","record_count":115}
+{"message":"v2 data inserted","record_count":115}
+{"message":"v2 data inserted","record_count":115}
+User: giron-d
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":6218}
+{"message":"v2 data inserted","record_count":2110}
+User: griffith-j
+{"message":"v2 data inserted","record_count":594}
+{"message":"v2 data inserted","record_count":2110}
+{"message":"v2 data inserted","record_count":594}
+{"message":"v2 data inserted","record_count":594}
+{"message":"v2 data inserted","record_count":594}
+{"message":"v2 data inserted","record_count":594}
+User: grigsby-m
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":447}
+{"message":"v2 data inserted","record_count":447}
+{"message":"v2 data inserted","record_count":447}
+{"message":"v2 data inserted","record_count":447}
+{"message":"v2 data inserted","record_count":447}
+User: guzman-m
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":3027}
+User: haedicke-m
+{"message":"v2 data inserted","record_count":3027}
+{"message":"v2 data inserted","record_count":2623}
+User: hain-m
+{"message":"v2 data inserted","record_count":2623}
+{"message":"v2 data inserted","record_count":764}
+{"message":"v2 data inserted","record_count":764}
+{"message":"v2 data inserted","record_count":764}
+{"message":"v2 data inserted","record_count":764}
+User: harris-s
+{"message":"v2 data inserted","record_count":764}
+{"message":"v2 data inserted","record_count":109}
+{"message":"v2 data inserted","record_count":109}
+{"message":"v2 data inserted","record_count":109}
+{"message":"v2 data inserted","record_count":109}
+{"message":"v2 data inserted","record_count":109}
+User: hayslett-r
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":510}
+{"message":"v2 data inserted","record_count":510}
+{"message":"v2 data inserted","record_count":510}
+{"message":"v2 data inserted","record_count":510}
+{"message":"v2 data inserted","record_count":510}
+User: heard-m
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":324}
+{"message":"v2 data inserted","record_count":324}
+{"message":"v2 data inserted","record_count":324}
+{"message":"v2 data inserted","record_count":324}
+{"message":"v2 data inserted","record_count":324}
+User: hendrickson-s
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":143}
+{"message":"v2 data inserted","record_count":143}
+{"message":"v2 data inserted","record_count":143}
+{"message":"v2 data inserted","record_count":143}
+{"message":"v2 data inserted","record_count":143}
+User: hernandez-j
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":653}
+{"message":"v2 data inserted","record_count":653}
+{"message":"v2 data inserted","record_count":653}
+{"message":"v2 data inserted","record_count":653}
+User: hodge-j
+{"message":"v2 data inserted","record_count":653}
+{"message":"v2 data inserted","record_count":332}
+{"message":"v2 data inserted","record_count":332}
+{"message":"v2 data inserted","record_count":332}
+{"message":"v2 data inserted","record_count":332}
+{"message":"v2 data inserted","record_count":332}
+User: holst-k
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":92}
+{"message":"v2 data inserted","record_count":92}
+{"message":"v2 data inserted","record_count":92}
+{"message":"v2 data inserted","record_count":92}
+{"message":"v2 data inserted","record_count":92}
+User: horton-s
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":494}
+{"message":"v2 data inserted","record_count":494}
+{"message":"v2 data inserted","record_count":494}
+{"message":"v2 data inserted","record_count":494}
+User: hyatt-k
+{"message":"v2 data inserted","record_count":494}
+{"message":"v2 data inserted","record_count":358}
+{"message":"v2 data inserted","record_count":358}
+{"message":"v2 data inserted","record_count":358}
+{"message":"v2 data inserted","record_count":358}
+{"message":"v2 data inserted","record_count":358}
+User: hyvl-d
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":642}
+{"message":"v2 data inserted","record_count":642}
+{"message":"v2 data inserted","record_count":642}
+{"message":"v2 data inserted","record_count":642}
+User: jones-t
+{"message":"v2 data inserted","record_count":642}
+{"message":"v2 data inserted","record_count":9975}
+User: kaminski-v
+{"message":"v2 data inserted","record_count":9975}
+{"message":"v2 data inserted","record_count":5000}
+{"message":"v2 data inserted","record_count":5000}
+{"message":"v2 data inserted","record_count":5000}
+{"message":"v2 data inserted","record_count":5000}
+{"message":"v2 data inserted","record_count":5000}
+User: kean-s
+{"message":"v2 data inserted","record_count":3465}
+{"message":"v2 data inserted","record_count":5000}
+{"message":"v2 data inserted","record_count":5000}
+{"message":"v2 data inserted","record_count":5000}
+{"message":"v2 data inserted","record_count":5000}
+{"message":"v2 data inserted","record_count":5000}
+User: keavey-p
+{"message":"v2 data inserted","record_count":351}
+{"message":"v2 data inserted","record_count":435}
+{"message":"v2 data inserted","record_count":435}
+{"message":"v2 data inserted","record_count":435}
+{"message":"v2 data inserted","record_count":435}
+{"message":"v2 data inserted","record_count":435}
+User: keiser-k
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":222}
+{"message":"v2 data inserted","record_count":222}
+{"message":"v2 data inserted","record_count":222}
+{"message":"v2 data inserted","record_count":222}
+{"message":"v2 data inserted","record_count":222}
+User: king-j
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":92}
+{"message":"v2 data inserted","record_count":92}
+{"message":"v2 data inserted","record_count":92}
+{"message":"v2 data inserted","record_count":92}
+{"message":"v2 data inserted","record_count":92}
+User: kitchen-l
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":2773}
+User: kuykendall-t
+{"message":"v2 data inserted","record_count":224}
+{"message":"v2 data inserted","record_count":2773}
+{"message":"v2 data inserted","record_count":224}
+{"message":"v2 data inserted","record_count":224}
+{"message":"v2 data inserted","record_count":224}
+{"message":"v2 data inserted","record_count":224}
+User: lavorato-j
+{"message":"v2 data inserted","record_count":2342}
+{"message":"v2 data inserted","record_count":2342}
+User: lay-k
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":2968}
+{"message":"v2 data inserted","record_count":2968}
+User: lenhart-m
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":2960}
+User: lewis-a
+{"message":"v2 data inserted","record_count":2960}
+{"message":"v2 data inserted","record_count":438}
+{"message":"v2 data inserted","record_count":438}
+{"message":"v2 data inserted","record_count":438}
+{"message":"v2 data inserted","record_count":438}
+{"message":"v2 data inserted","record_count":438}
+User: linder-e
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":561}
+{"message":"v2 data inserted","record_count":561}
+{"message":"v2 data inserted","record_count":561}
+{"message":"v2 data inserted","record_count":561}
+User: lokay-m
+{"message":"v2 data inserted","record_count":561}
+{"message":"v2 data inserted","record_count":2784}
+User: lokey-t
+{"message":"v2 data inserted","record_count":2784}
+{"message":"v2 data inserted","record_count":231}
+{"message":"v2 data inserted","record_count":231}
+{"message":"v2 data inserted","record_count":231}
+{"message":"v2 data inserted","record_count":231}
+{"message":"v2 data inserted","record_count":231}
+User: love-p
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":2501}
+User: lucci-p
+{"message":"v2 data inserted","record_count":2501}
+{"message":"v2 data inserted","record_count":199}
+{"message":"v2 data inserted","record_count":199}
+{"message":"v2 data inserted","record_count":199}
+{"message":"v2 data inserted","record_count":199}
+{"message":"v2 data inserted","record_count":199}
+User: maggi-m
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":398}
+{"message":"v2 data inserted","record_count":398}
+{"message":"v2 data inserted","record_count":398}
+{"message":"v2 data inserted","record_count":398}
+{"message":"v2 data inserted","record_count":398}
+User: mann-k
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":11690}
+{"message":"v2 data inserted","record_count":11690}
+User: martin-t
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":222}
+{"message":"v2 data inserted","record_count":222}
+{"message":"v2 data inserted","record_count":222}
+{"message":"v2 data inserted","record_count":222}
+{"message":"v2 data inserted","record_count":222}
+User: may-l
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":320}
+{"message":"v2 data inserted","record_count":320}
+{"message":"v2 data inserted","record_count":320}
+{"message":"v2 data inserted","record_count":320}
+{"message":"v2 data inserted","record_count":320}
+User: mccarty-d
+{"message":"v2 data inserted","record_count":138}
+{"message":"v2 data inserted","record_count":138}
+{"message":"v2 data inserted","record_count":138}
+{"message":"v2 data inserted","record_count":138}
+{"message":"v2 data inserted","record_count":138}
+User: mcconnell-m
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":2271}
+User: mckay-b
+{"message":"v2 data inserted","record_count":2271}
+{"message":"v2 data inserted","record_count":136}
+{"message":"v2 data inserted","record_count":136}
+{"message":"v2 data inserted","record_count":136}
+{"message":"v2 data inserted","record_count":136}
+{"message":"v2 data inserted","record_count":136}
+User: mckay-j
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":199}
+{"message":"v2 data inserted","record_count":199}
+{"message":"v2 data inserted","record_count":199}
+{"message":"v2 data inserted","record_count":199}
+{"message":"v2 data inserted","record_count":199}
+User: mclaughlin-e
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":670}
+{"message":"v2 data inserted","record_count":670}
+{"message":"v2 data inserted","record_count":670}
+{"message":"v2 data inserted","record_count":670}
+{"message":"v2 data inserted","record_count":670}
+User: merriss-s
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":325}
+{"message":"v2 data inserted","record_count":325}
+{"message":"v2 data inserted","record_count":325}
+{"message":"v2 data inserted","record_count":325}
+{"message":"v2 data inserted","record_count":325}
+User: meyers-a
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":219}
+{"message":"v2 data inserted","record_count":219}
+{"message":"v2 data inserted","record_count":219}
+{"message":"v2 data inserted","record_count":219}
+{"message":"v2 data inserted","record_count":219}
+User: mims-thurston-p
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":407}
+{"message":"v2 data inserted","record_count":407}
+{"message":"v2 data inserted","record_count":407}
+{"message":"v2 data inserted","record_count":407}
+{"message":"v2 data inserted","record_count":407}
+User: motley-m
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":75}
+{"message":"v2 data inserted","record_count":75}
+{"message":"v2 data inserted","record_count":75}
+{"message":"v2 data inserted","record_count":75}
+{"message":"v2 data inserted","record_count":75}
+User: neal-s
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":653}
+{"message":"v2 data inserted","record_count":653}
+{"message":"v2 data inserted","record_count":653}
+{"message":"v2 data inserted","record_count":653}
+{"message":"v2 data inserted","record_count":653}
+User: nemec-g
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":5327}
+{"message":"v2 data inserted","record_count":5327}
+User: panus-s
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":87}
+{"message":"v2 data inserted","record_count":87}
+{"message":"v2 data inserted","record_count":87}
+{"message":"v2 data inserted","record_count":87}
+{"message":"v2 data inserted","record_count":87}
+User: parks-j
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":456}
+{"message":"v2 data inserted","record_count":456}
+{"message":"v2 data inserted","record_count":456}
+{"message":"v2 data inserted","record_count":456}
+{"message":"v2 data inserted","record_count":456}
+User: pereira-s
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":145}
+{"message":"v2 data inserted","record_count":145}
+{"message":"v2 data inserted","record_count":145}
+{"message":"v2 data inserted","record_count":145}
+{"message":"v2 data inserted","record_count":145}
+User: perlingiere-d
+{"message":"v2 data inserted","record_count":2389}
+User: phanis-s
+{"message":"v2 data inserted","record_count":7}
+{"message":"v2 data inserted","record_count":7}
+{"message":"v2 data inserted","record_count":7}
+{"message":"v2 data inserted","record_count":7}
+{"message":"v2 data inserted","record_count":7}
+User: pimenov-v
+{"message":"v2 data inserted","record_count":2389}
+{"message":"v2 data inserted","record_count":128}
+{"message":"v2 data inserted","record_count":128}
+{"message":"v2 data inserted","record_count":128}
+{"message":"v2 data inserted","record_count":128}
+{"message":"v2 data inserted","record_count":128}
+User: platter-p
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":114}
+{"message":"v2 data inserted","record_count":114}
+{"message":"v2 data inserted","record_count":114}
+{"message":"v2 data inserted","record_count":114}
+{"message":"v2 data inserted","record_count":114}
+User: presto-k
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":440}
+{"message":"v2 data inserted","record_count":440}
+{"message":"v2 data inserted","record_count":440}
+{"message":"v2 data inserted","record_count":440}
+{"message":"v2 data inserted","record_count":440}
+User: quenet-j
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":79}
+{"message":"v2 data inserted","record_count":79}
+{"message":"v2 data inserted","record_count":79}
+{"message":"v2 data inserted","record_count":79}
+User: quigley-d
+{"message":"v2 data inserted","record_count":79}
+{"message":"v2 data inserted","record_count":313}
+{"message":"v2 data inserted","record_count":313}
+{"message":"v2 data inserted","record_count":313}
+{"message":"v2 data inserted","record_count":313}
+{"message":"v2 data inserted","record_count":313}
+User: rapp-b
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":112}
+{"message":"v2 data inserted","record_count":112}
+{"message":"v2 data inserted","record_count":112}
+{"message":"v2 data inserted","record_count":112}
+{"message":"v2 data inserted","record_count":112}
+User: reitmeyer-j
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":99}
+{"message":"v2 data inserted","record_count":99}
+{"message":"v2 data inserted","record_count":99}
+{"message":"v2 data inserted","record_count":99}
+{"message":"v2 data inserted","record_count":99}
+User: richey-c
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":121}
+{"message":"v2 data inserted","record_count":121}
+{"message":"v2 data inserted","record_count":121}
+{"message":"v2 data inserted","record_count":121}
+{"message":"v2 data inserted","record_count":121}
+User: ring-a
+{"message":"v2 data inserted","record_count":141}
+{"message":"v2 data inserted","record_count":141}
+{"message":"v2 data inserted","record_count":141}
+{"message":"v2 data inserted","record_count":141}
+{"message":"v2 data inserted","record_count":141}
+User: ring-r
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":198}
+{"message":"v2 data inserted","record_count":198}
+{"message":"v2 data inserted","record_count":198}
+{"message":"v2 data inserted","record_count":198}
+{"message":"v2 data inserted","record_count":198}
+User: rodrique-r
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":553}
+{"message":"v2 data inserted","record_count":553}
+{"message":"v2 data inserted","record_count":553}
+{"message":"v2 data inserted","record_count":553}
+{"message":"v2 data inserted","record_count":553}
+User: rogers-b
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":4004}
+{"message":"v2 data inserted","record_count":4004}
+User: ruscitti-k
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":328}
+{"message":"v2 data inserted","record_count":328}
+{"message":"v2 data inserted","record_count":328}
+{"message":"v2 data inserted","record_count":328}
+{"message":"v2 data inserted","record_count":328}
+User: sager-e
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":2600}
+User: saibi-e
+{"message":"v2 data inserted","record_count":2600}
+{"message":"v2 data inserted","record_count":223}
+{"message":"v2 data inserted","record_count":223}
+{"message":"v2 data inserted","record_count":223}
+{"message":"v2 data inserted","record_count":223}
+{"message":"v2 data inserted","record_count":223}
+User: salisbury-h
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":326}
+{"message":"v2 data inserted","record_count":326}
+{"message":"v2 data inserted","record_count":326}
+{"message":"v2 data inserted","record_count":326}
+{"message":"v2 data inserted","record_count":326}
+User: sanchez-m
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":51}
+{"message":"v2 data inserted","record_count":51}
+{"message":"v2 data inserted","record_count":51}
+{"message":"v2 data inserted","record_count":51}
+{"message":"v2 data inserted","record_count":51}
+User: sanders-r
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":3664}
+{"message":"v2 data inserted","record_count":3664}
+User: scholtes-d
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":129}
+{"message":"v2 data inserted","record_count":129}
+{"message":"v2 data inserted","record_count":129}
+{"message":"v2 data inserted","record_count":129}
+{"message":"v2 data inserted","record_count":129}
+User: schoolcraft-d
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":371}
+{"message":"v2 data inserted","record_count":371}
+{"message":"v2 data inserted","record_count":371}
+{"message":"v2 data inserted","record_count":371}
+{"message":"v2 data inserted","record_count":371}
+User: schwieger-j
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":147}
+{"message":"v2 data inserted","record_count":147}
+{"message":"v2 data inserted","record_count":147}
+{"message":"v2 data inserted","record_count":147}
+{"message":"v2 data inserted","record_count":147}
+User: scott-s
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":4011}
+User: semperger-c
+{"message":"v2 data inserted","record_count":144}
+{"message":"v2 data inserted","record_count":4011}
+{"message":"v2 data inserted","record_count":144}
+{"message":"v2 data inserted","record_count":144}
+{"message":"v2 data inserted","record_count":144}
+{"message":"v2 data inserted","record_count":144}
+User: shackleton-s
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":9343}
+{"message":"v2 data inserted","record_count":9343}
+User: shankman-j
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":771}
+{"message":"v2 data inserted","record_count":771}
+{"message":"v2 data inserted","record_count":771}
+{"message":"v2 data inserted","record_count":771}
+{"message":"v2 data inserted","record_count":771}
+User: shapiro-r
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":3035}
+{"message":"v2 data inserted","record_count":3035}
+User: shively-h
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":398}
+{"message":"v2 data inserted","record_count":398}
+{"message":"v2 data inserted","record_count":398}
+{"message":"v2 data inserted","record_count":398}
+{"message":"v2 data inserted","record_count":398}
+User: skilling-j
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":2069}
+{"message":"v2 data inserted","record_count":2069}
+User: slinger-r
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":26}
+{"message":"v2 data inserted","record_count":26}
+{"message":"v2 data inserted","record_count":26}
+{"message":"v2 data inserted","record_count":26}
+{"message":"v2 data inserted","record_count":26}
+User: smith-m
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":328}
+{"message":"v2 data inserted","record_count":328}
+{"message":"v2 data inserted","record_count":328}
+{"message":"v2 data inserted","record_count":328}
+{"message":"v2 data inserted","record_count":328}
+User: solberg-g
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":216}
+{"message":"v2 data inserted","record_count":216}
+{"message":"v2 data inserted","record_count":216}
+{"message":"v2 data inserted","record_count":216}
+{"message":"v2 data inserted","record_count":216}
+User: south-s
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":49}
+{"message":"v2 data inserted","record_count":49}
+{"message":"v2 data inserted","record_count":49}
+{"message":"v2 data inserted","record_count":49}
+{"message":"v2 data inserted","record_count":49}
+User: staab-t
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":124}
+{"message":"v2 data inserted","record_count":124}
+{"message":"v2 data inserted","record_count":124}
+{"message":"v2 data inserted","record_count":124}
+{"message":"v2 data inserted","record_count":124}
+User: stclair-c
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":606}
+{"message":"v2 data inserted","record_count":606}
+{"message":"v2 data inserted","record_count":606}
+{"message":"v2 data inserted","record_count":606}
+{"message":"v2 data inserted","record_count":606}
+User: steffes-j
+{"message":"v2 data inserted","record_count":666}
+{"message":"v2 data inserted","record_count":666}
+{"message":"v2 data inserted","record_count":666}
+{"message":"v2 data inserted","record_count":666}
+{"message":"v2 data inserted","record_count":666}
+User: stepenovitch-j
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":245}
+{"message":"v2 data inserted","record_count":245}
+{"message":"v2 data inserted","record_count":245}
+{"message":"v2 data inserted","record_count":245}
+{"message":"v2 data inserted","record_count":245}
+User: stokley-c
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":250}
+{"message":"v2 data inserted","record_count":250}
+{"message":"v2 data inserted","record_count":250}
+{"message":"v2 data inserted","record_count":250}
+{"message":"v2 data inserted","record_count":250}
+User: storey-g
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":205}
+{"message":"v2 data inserted","record_count":205}
+{"message":"v2 data inserted","record_count":205}
+{"message":"v2 data inserted","record_count":205}
+{"message":"v2 data inserted","record_count":205}
+User: sturm-f
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":233}
+{"message":"v2 data inserted","record_count":233}
+{"message":"v2 data inserted","record_count":233}
+{"message":"v2 data inserted","record_count":233}
+{"message":"v2 data inserted","record_count":233}
+User: swerzbin-m
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":71}
+{"message":"v2 data inserted","record_count":71}
+{"message":"v2 data inserted","record_count":71}
+{"message":"v2 data inserted","record_count":71}
+User: symes-k
+{"message":"v2 data inserted","record_count":71}
+{"message":"v2 data inserted","record_count":5413}
+{"message":"v2 data inserted","record_count":5413}
+User: taylor-m
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":6937}
+{"message":"v2 data inserted","record_count":6937}
+User: tholt-j
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":377}
+{"message":"v2 data inserted","record_count":377}
+{"message":"v2 data inserted","record_count":377}
+{"message":"v2 data inserted","record_count":377}
+{"message":"v2 data inserted","record_count":377}
+User: thomas-p
+{"message":"v2 data inserted","record_count":258}
+{"message":"v2 data inserted","record_count":258}
+{"message":"v2 data inserted","record_count":258}
+{"message":"v2 data inserted","record_count":258}
+{"message":"v2 data inserted","record_count":258}
+User: townsend-j
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":129}
+{"message":"v2 data inserted","record_count":129}
+{"message":"v2 data inserted","record_count":129}
+{"message":"v2 data inserted","record_count":129}
+{"message":"v2 data inserted","record_count":129}
+User: tycholiz-b
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":243}
+{"message":"v2 data inserted","record_count":243}
+{"message":"v2 data inserted","record_count":243}
+{"message":"v2 data inserted","record_count":243}
+{"message":"v2 data inserted","record_count":243}
+User: ward-k
+{"message":"v2 data inserted","record_count":4}
+{"message":"v2 data inserted","record_count":522}
+{"message":"v2 data inserted","record_count":522}
+{"message":"v2 data inserted","record_count":522}
+{"message":"v2 data inserted","record_count":522}
+{"message":"v2 data inserted","record_count":522}
+User: watson-k
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":590}
+{"message":"v2 data inserted","record_count":590}
+{"message":"v2 data inserted","record_count":590}
+{"message":"v2 data inserted","record_count":590}
+{"message":"v2 data inserted","record_count":590}
+User: weldon-c
+{"message":"v2 data inserted","record_count":313}
+{"message":"v2 data inserted","record_count":313}
+{"message":"v2 data inserted","record_count":313}
+{"message":"v2 data inserted","record_count":313}
+{"message":"v2 data inserted","record_count":313}
+User: whalley-g
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":375}
+{"message":"v2 data inserted","record_count":375}
+{"message":"v2 data inserted","record_count":375}
+{"message":"v2 data inserted","record_count":375}
+{"message":"v2 data inserted","record_count":375}
+User: whalley-l
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":667}
+{"message":"v2 data inserted","record_count":667}
+{"message":"v2 data inserted","record_count":667}
+{"message":"v2 data inserted","record_count":667}
+{"message":"v2 data inserted","record_count":667}
+User: white-s
+{"message":"v2 data inserted","record_count":654}
+{"message":"v2 data inserted","record_count":654}
+{"message":"v2 data inserted","record_count":654}
+{"message":"v2 data inserted","record_count":654}
+{"message":"v2 data inserted","record_count":654}
+User: whitt-m
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":161}
+{"message":"v2 data inserted","record_count":161}
+{"message":"v2 data inserted","record_count":161}
+{"message":"v2 data inserted","record_count":161}
+{"message":"v2 data inserted","record_count":161}
+User: williams-j
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":242}
+{"message":"v2 data inserted","record_count":242}
+{"message":"v2 data inserted","record_count":242}
+{"message":"v2 data inserted","record_count":242}
+{"message":"v2 data inserted","record_count":242}
+User: williams-w3
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":688}
+{"message":"v2 data inserted","record_count":688}
+{"message":"v2 data inserted","record_count":688}
+{"message":"v2 data inserted","record_count":688}
+User: wolfe-j
+{"message":"v2 data inserted","record_count":688}
+{"message":"v2 data inserted","record_count":317}
+{"message":"v2 data inserted","record_count":317}
+{"message":"v2 data inserted","record_count":317}
+{"message":"v2 data inserted","record_count":317}
+{"message":"v2 data inserted","record_count":317}
+User: ybarbo-p
+{"message":"v2 data inserted","record_count":2}
+{"message":"v2 data inserted","record_count":258}
+{"message":"v2 data inserted","record_count":258}
+{"message":"v2 data inserted","record_count":258}
+{"message":"v2 data inserted","record_count":258}
+{"message":"v2 data inserted","record_count":258}
+User: zipper-a
+{"message":"v2 data inserted","record_count":1}
+{"message":"v2 data inserted","record_count":312}
+{"message":"v2 data inserted","record_count":312}
+{"message":"v2 data inserted","record_count":312}
+{"message":"v2 data inserted","record_count":312}
+{"message":"v2 data inserted","record_count":312}
+User: zufferli-j
+{"message":"v2 data inserted","record_count":3}
+{"message":"v2 data inserted","record_count":111}
+{"message":"v2 data inserted","record_count":111}
+{"message":"v2 data inserted","record_count":111}
+{"message":"v2 data inserted","record_count":111}
+{"message":"v2 data inserted","record_count":111}
+{"message":"v2 data inserted","record_count":2}

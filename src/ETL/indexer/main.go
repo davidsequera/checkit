@@ -6,6 +6,7 @@ import (
 	"log"
 	"os"
 	"runtime"
+	"runtime/debug"
 	"runtime/pprof"
 
 	"github.com/joho/godotenv"
@@ -38,6 +39,8 @@ func main() {
 		log.Fatal(err)
 	}
 	defer mf.Close()
+
+	debug.SetMaxThreads(28465)
 	pprof.WriteHeapProfile(mf)
 	pprof.StartCPUProfile(f)
 	controllers.Manage(args[1], "http://localhost:4080/api/_bulkv2", &user, &password)

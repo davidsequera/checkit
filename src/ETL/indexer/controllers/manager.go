@@ -9,14 +9,17 @@ import (
 )
 
 func setParameters(size int) (int, int, int) {
+	// var m runtime.MemStats
+	// runtime.ReadMemStats(&m)
+
 	// readerWorkes, senderWorkers, batchSize
-	if size > 20000 {
-		return 30000, 300, 1000
+	if size > 25000 {
+		return 29000, 300, 5000
 	}
-	if size <= 2000 {
-		return size, size, size
+	if size <= 4000 {
+		return size, size / 5, size / 5
 	}
-	return size, size / 3, size / 5
+	return size, size, size / 2
 }
 
 func fillPaths(dir string) ([]string, error) {
@@ -41,12 +44,15 @@ func Manage(dir string, url string, user *string, password *string) {
 	}
 	for _, f := range files {
 		if f.IsDir() {
-			manageUser(dir+"/"+f.Name(), url, user, password)
+			manageUser(dir+"/"+f.Name(), url, user, password, f.Name())
 		}
 	}
 }
 
-func manageUser(dir string, url string, user *string, password *string) {
+func manageUser(dir string, url string, user *string, password *string, name string) {
+
+	fmt.Println("User:", name)
+
 	paths, err := fillPaths(dir)
 	if err != nil {
 		fmt.Printf("Error Reading the directory: %v\n", err)
@@ -67,10 +73,8 @@ func manageUser(dir string, url string, user *string, password *string) {
 			wRg.Add(1)
 			go ReadEmail(path, &wRg, chEmails, semaphoreR)
 		}
-		paths = []string{}
 		wRg.Done()
 	}()
-	fmt.Println("Reading emails")
 
 	go func() {
 		var batch []entities.Email
@@ -82,15 +86,15 @@ func manageUser(dir string, url string, user *string, password *string) {
 				batch = []entities.Email{}
 			}
 		}
-		wSg.Add(1)
-		go SendEmails(url, batch, user, password, &wSg, semaphoreS)
+		if len(batch) > 0 {
+			wSg.Add(1)
+			go SendEmails(url, batch, user, password, &wSg, semaphoreS)
+		}
 	}()
 
 	wRg.Wait()
-	fmt.Println("Stop reading emails")
-
 	wSg.Wait()
-	fmt.Println("Stop sending emails")
-
+	// fmt.Println("Stop reading emails")
+	// fmt.Println("Stop sending emails")
 	close(chEmails)
 }
