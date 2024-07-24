@@ -82,8 +82,13 @@ To run this project, you will need:
 
 9. Run the frontend development server:
     ```bash
-    npm run serve
+    npm run dev
     ```
+
+### Profiling
+```
+go tool pprof -http=":8000" pprofbin ./cpu.prof
+```
 
 ### Usage
 
@@ -119,7 +124,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For any questions or inquiries, please open an issue in the repository or contact us at your-email@example.com.
+For any questions or inquiries, please open an issue in the repository or contact us at davidsequera.bs@gmail.com.
 
 ---
 
