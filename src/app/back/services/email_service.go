@@ -42,7 +42,16 @@ var mock_emails = []models.Email{
 }
 
 func GetEmails(w http.ResponseWriter, r *http.Request) {
-	searchResponse := repository.FindEmails()
+	var searchResponse models.SearchResponse
+	query := r.URL.Query()
+	search := query.Get("search")
+
+	if search != "" {
+		searchResponse = repository.FindEmailsBySearch(search)
+	} else {
+		searchResponse = repository.FindEmails()
+	}
+
 	var emails []models.Email = []models.Email{}
 	for _, hint := range searchResponse.Hits.Hits {
 		emails = append(emails, hint.Source)

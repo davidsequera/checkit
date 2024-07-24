@@ -46,20 +46,27 @@ func FindEmails() models.SearchResponse {
 	return searchResponse
 }
 
-func FindEmailsBySearch() {
-	query := `{
-        "search_type": "match",
-        "query":
-        {
-            "term": "DEMTSCHENKO",
-            "start_time": "2021-06-02T14:28:31.894Z",
-            "end_time": "2021-12-02T15:28:31.894Z"
-        },
-        "from": 0,
-        "max_results": 20,
-        "_source": []
-    }`
-	req, err := http.NewRequest("POST", "http://localhost:4080/api/emails/_search", strings.NewReader(query))
+func FindEmailsBySearch(search string) models.SearchResponse {
+
+	// Define the query structure as a Go map
+	query := map[string]interface{}{
+		"search_type": "match",
+		"query": map[string]interface{}{
+			"term": search,
+		},
+		"from":        0,
+		"max_results": 20,
+		"_source":     []string{}, // Empty array of strings
+	}
+
+	// Convert the query map to JSON
+	queryJSON, err := json.Marshal(query)
+	if err != nil {
+		fmt.Println("Error marshalling JSON:", err)
+		log.Fatal(err)
+	}
+
+	req, err := http.NewRequest("POST", "http://localhost:4080/api/emails/_search", strings.NewReader(string(queryJSON)))
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -77,5 +84,13 @@ func FindEmailsBySearch() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	fmt.Println(string(body))
+
+	var searchResponse models.SearchResponse
+	// Unmarshal JSON byte array into Response struct
+	err = json.Unmarshal(body, &searchResponse)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	return searchResponse
 }
