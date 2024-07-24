@@ -3,8 +3,7 @@ import EmailComponent from '@/components/EmailComponent.vue'
 </script>
 
 <template>
-  <main>
-    <h1>Welcome to Enron Email App Displayer</h1>
+  <main class="flex flex-col items-center">
     <EmailComponent />
   </main>
 </template>

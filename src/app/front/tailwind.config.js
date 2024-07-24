@@ -6,8 +6,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        heading: ['var(--font-heading)', ...fontFamily.sans],
-        body: ['var(--font-body)', ...fontFamily.sans]
+        heading: ['var(--font-heading)', ...fontFamily.mono],
+        body: ['var(--font-body)', ...fontFamily.mono]
       },
       colors: {
         border: 'hsl(var(--border))',
