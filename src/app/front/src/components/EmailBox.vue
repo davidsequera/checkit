@@ -41,7 +41,7 @@
 import { defineProps } from 'vue'
 import type { Email } from '../models/Email'
 
-const props = defineProps<{
+defineProps<{
   email: Email | null
 }>()
 

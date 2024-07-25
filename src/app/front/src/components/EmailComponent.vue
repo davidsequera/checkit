@@ -21,6 +21,10 @@ import type { Email } from '../models/Email'
 const search = ref('')
 const selectedEmail = ref<Email | null>(null)
 
+defineProps<{
+  msg: string
+}>()
+
 const selectEmail = (email: Email) => {
   selectedEmail.value = email
 }
