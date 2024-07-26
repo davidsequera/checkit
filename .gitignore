@@ -3,3 +3,24 @@
 .env
 
 **.exe
+
+# Ignore Terraform state files and backups
+terraform.tfstate
+terraform.tfstate.backup
+
+# Ignore .terraform directory
+.terraform/
+
+# Ignore variables files
+*.tfvars
+
+# Ignore any override files
+override.tf
+override.tf.json
+
+# Ignore sensitive files
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
