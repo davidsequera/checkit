@@ -1,17 +1,24 @@
 package main
 
 import (
-	"checkit/services"
+	"checkit/controller"
 	"fmt"
 	"net/http"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
 	"github.com/go-chi/cors"
+	"github.com/joho/godotenv"
 )
 
 func main() {
 
+	// Enviroment
+	err := godotenv.Load(".env")
+	if err != nil {
+		fmt.Println("Error loading .env file")
+		return
+	}
 	r := chi.NewRouter()
 
 	// Configure CORS options
@@ -31,14 +38,14 @@ func main() {
 	// CRUD
 
 	// Create
-	r.Post("/emails", services.CreateEmail)
+	r.Post("/emails", controller.CreateEmail)
 	// Read
-	r.Get("/emails", services.GetEmails)
-	r.Get("/emails/{id}", services.GetEmail)
+	r.Get("/emails", controller.GetEmails)
+	r.Get("/emails/{id}", controller.GetEmail)
 	// Update
-	r.Put("/emails/{id}", services.UpdateEmail)
+	r.Put("/emails/{id}", controller.UpdateEmail)
 	// Delete
-	r.Delete("/emails/{id}", services.DeleteEmail)
+	r.Delete("/emails/{id}", controller.DeleteEmail)
 
 	fmt.Println("Server is running on port 8080")
 	http.ListenAndServe(":8080", r)

@@ -5,50 +5,54 @@ import (
 	"encoding/json"
 	"fmt"
 	"io"
-	"log"
 	"net/http"
 	"strings"
 )
 
-func FindEmails() models.SearchResponse {
+func FindEmails() (models.SearchResponse, error) {
+	config := models.GetConfig()
+
+	fmt.Println("[FindEmails]", config.Username, config.Password)
 	query := `{
         "search_type": "matchall",
         "from": 0,
         "max_results": 20,
         "_source": []
     }`
-	req, err := http.NewRequest("POST", "http://localhost:4080/api/emails/_search", strings.NewReader(query))
+	req, err := http.NewRequest("POST", config.Url+"/_search", strings.NewReader(query))
 	if err != nil {
-		log.Fatal(err)
+		return models.SearchResponse{}, fmt.Errorf("error creating request: %w", err)
 	}
-	req.SetBasicAuth("admin", "Complexpass#123")
+	req.SetBasicAuth(config.Username, config.Password)
 	req.Header.Set("Content-Type", "application/json")
 	req.Header.Set("User-Agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36")
 
 	resp, err := http.DefaultClient.Do(req)
 	if err != nil {
-		log.Fatal(err)
+		return models.SearchResponse{}, fmt.Errorf("error performing request: %w", err)
 	}
 	defer resp.Body.Close()
-	log.Println(resp.StatusCode)
+
+	if resp.StatusCode != http.StatusOK {
+		return models.SearchResponse{}, fmt.Errorf("unexpected status code: %d", resp.StatusCode)
+	}
+
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
-		log.Fatal(err)
+		return models.SearchResponse{}, fmt.Errorf("error reading response body: %w", err)
 	}
 
 	var searchResponse models.SearchResponse
-	// Unmarshal JSON byte array into Response struct
 	err = json.Unmarshal(body, &searchResponse)
 	if err != nil {
-		log.Fatal(err)
+		return models.SearchResponse{}, fmt.Errorf("error unmarshalling response: %w", err)
 	}
 
-	return searchResponse
+	return searchResponse, nil
 }
 
-func FindEmailsBySearch(search string) models.SearchResponse {
-
-	// Define the query structure as a Go map
+func FindEmailsBySearch(search string) (models.SearchResponse, error) {
+	config := models.GetConfig()
 	query := map[string]interface{}{
 		"search_type": "match",
 		"query": map[string]interface{}{
@@ -56,41 +60,42 @@ func FindEmailsBySearch(search string) models.SearchResponse {
 		},
 		"from":        0,
 		"max_results": 20,
-		"_source":     []string{}, // Empty array of strings
+		"_source":     []string{},
 	}
 
-	// Convert the query map to JSON
 	queryJSON, err := json.Marshal(query)
 	if err != nil {
-		fmt.Println("Error marshalling JSON:", err)
-		log.Fatal(err)
+		return models.SearchResponse{}, fmt.Errorf("error marshalling JSON: %w", err)
 	}
 
-	req, err := http.NewRequest("POST", "http://localhost:4080/api/emails/_search", strings.NewReader(string(queryJSON)))
+	req, err := http.NewRequest("POST", config.Url+"/_search", strings.NewReader(string(queryJSON)))
 	if err != nil {
-		log.Fatal(err)
+		return models.SearchResponse{}, fmt.Errorf("error creating request: %w", err)
 	}
-	req.SetBasicAuth("admin", "Complexpass#123")
+	req.SetBasicAuth(config.Username, config.Password)
 	req.Header.Set("Content-Type", "application/json")
 	req.Header.Set("User-Agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36")
 
 	resp, err := http.DefaultClient.Do(req)
 	if err != nil {
-		log.Fatal(err)
+		return models.SearchResponse{}, fmt.Errorf("error performing request: %w", err)
 	}
 	defer resp.Body.Close()
-	log.Println(resp.StatusCode)
+
+	if resp.StatusCode != http.StatusOK {
+		return models.SearchResponse{}, fmt.Errorf("unexpected status code: %d", resp.StatusCode)
+	}
+
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
-		log.Fatal(err)
+		return models.SearchResponse{}, fmt.Errorf("error reading response body: %w", err)
 	}
 
 	var searchResponse models.SearchResponse
-	// Unmarshal JSON byte array into Response struct
 	err = json.Unmarshal(body, &searchResponse)
 	if err != nil {
-		log.Fatal(err)
+		return models.SearchResponse{}, fmt.Errorf("error unmarshalling response: %w", err)
 	}
 
-	return searchResponse
+	return searchResponse, nil
 }

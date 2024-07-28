@@ -5,28 +5,11 @@ import (
 	"checkit/repository"
 	"encoding/json"
 	"fmt"
+	"log"
 	"net/http"
 
 	"github.com/go-chi/chi/v5"
 )
-
-// type EmailService struct {
-// 	repo *repository.EmailRepository
-// }
-
-// func NewEmailService(repo *repository.EmailRepository) *EmailService {
-// 	return &EmailService{repo: repo}
-// }
-
-// func (s *EmailService) GetEmails() ([]models.Email, error) {
-// 	return s.repo.GetEmails()
-// }
-
-// func (s *EmailService) GetEmail(id string) (*models.Email, error) {
-// 	return s.repo.GetEmail(id)
-// }
-
-// Implement other business logic methods...
 
 var mock_emails = []models.Email{
 	{MessageID: "1", From: "olivia@example.com", Subject: "Meeting Agenda", Date: "2023-06-01"},
@@ -43,19 +26,26 @@ var mock_emails = []models.Email{
 
 func GetEmails(w http.ResponseWriter, r *http.Request) {
 	var searchResponse models.SearchResponse
+	var err error
 	query := r.URL.Query()
 	search := query.Get("search")
 
 	if search != "" {
-		searchResponse = repository.FindEmailsBySearch(search)
+		searchResponse, err = repository.FindEmailsBySearch(search)
 	} else {
-		searchResponse = repository.FindEmails()
+		searchResponse, err = repository.FindEmails()
+	}
+
+	if err != nil {
+		log.Println(err)
+		w.Write([]byte{'E', 'r', 'r', 'o', 'r'})
 	}
 
 	var emails []models.Email = []models.Email{}
 	for _, hint := range searchResponse.Hits.Hits {
 		emails = append(emails, hint.Source)
 	}
+
 	json.NewEncoder(w).Encode(emails)
 }
 
